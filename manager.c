@@ -1,4 +1,4 @@
-//(last committed version) manager.c 21700305 박지성
+//(the last committed version) manager.c 21700305 박지성
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -52,6 +52,7 @@ int addList(Product *s){
 
 int updateProduct(Product *s){
     printf("새 상품 이름: ");
+    getchar();
     scanf("%[^\n]s", s->name);
     getchar();
     printf("상품 원산지: ");
