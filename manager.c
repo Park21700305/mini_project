@@ -1,4 +1,4 @@
-//c8manager.c 21700305 박지성
+//c9manager.c 21700305 박지성
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
