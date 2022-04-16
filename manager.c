@@ -1,4 +1,4 @@
-//c10 manager.c 21700305 박지성
+//(last committed version) manager.c 21700305 박지성
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
